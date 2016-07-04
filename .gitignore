@@ -1,0 +1,5 @@
+*.pyc
+data
+data/*
+Tests/*
+.idea/*
